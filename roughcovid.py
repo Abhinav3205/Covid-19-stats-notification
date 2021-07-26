@@ -38,3 +38,4 @@ for states in stats:
             app_icon = "C:\\Users\\abhin\\OneDrive\\Desktop\\python abhinav\\photo-1584036561566-baf8f5f1b144.jpg"
             ,timeout  = 5
         )
+ time.sleep(60*60)
